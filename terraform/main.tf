@@ -3,7 +3,7 @@ module "sandbox" {
 
   control_tower_parameters = {
     AccountEmail = "aft.terraform.2@amazon.com"
-    AccountName  = "terraform-aft-1"
+    AccountName  = "terraform-aft-2"
     # Syntax for top-level OU
     ManagedOrganizationalUnit = "Sandbox"
     # Syntax for nested OU
